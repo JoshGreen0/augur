@@ -131,6 +131,3 @@ GSoC 2018 participants
 -----------------------
 - `Keanu Nichols <https://github.com/kmn5409/>`_
 
-GSoC 2017 participants
------------------------
-- `Joshua Green <https://github.com/JoshGreen0/>`_
